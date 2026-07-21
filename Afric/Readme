@@ -1,1 +1,60 @@
+# Afric – Static Website Testing
+
+This project showcases my QA testing work on the **Afric** static website. The primary focus was to verify website content, UI consistency, responsiveness, and the successful implementation of requested changes.
+
+---
+
+## 📌 Project Overview
+
+* **Project Name:** Afric
+* **Project Type:** Static Website
+* **Testing Type:** Manual Testing
+* **Focus Area:** Content Verification, UI Testing & Functional Validation
+
+---
+
+## 🧪 Testing Scope
+
+During this project, I performed testing on the following areas:
+
+* Website content verification
+* Text and image updates
+* Navigation and page links
+* UI consistency across pages
+* Responsive layout verification
+* Cross-browser functionality
+* Blog page verification after implementation
+
+---
+
+## 🐞 QA Activities
+
+* Verified all requested content changes
+* Checked newly added blog page functionality
+* Validated page layouts and responsiveness
+* Identified and reported UI or functional issues when necessary
+* Performed final regression testing before project approval
+
+---
+
+## 🛠 Tools Used
+
+* Manual Testing
+* Google Chrome DevTools
+* Cross-Browser Testing
+
+---
+
+## 🧠 Key Learnings
+
+* Testing and validating static websites after content updates
+* Ensuring UI consistency across different pages and screen sizes
+* Performing regression testing after implementing new features
+* Improving attention to detail during final QA verification
+
+---
+
+## 🚀 Conclusion
+
+This project strengthened my practical experience in testing static websites, verifying content updates, and ensuring that all requested changes were implemented correctly before deployment.
 
